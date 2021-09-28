@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
 
 body {
   font-family: "Lato", sans-serif;
@@ -9,6 +10,9 @@ body {
   text-align: center;
   padding: 2rem 1rem;
   font-weight: bold;
+  font-family: Rampart One;
+  color: #059669;
+  font-size: 60px;
 }
 
 .input-label {
@@ -43,7 +47,10 @@ body {
 
 .output-div p {
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #04724f;
+  font-family: Rampart One;
 }
 
 .spinner {
